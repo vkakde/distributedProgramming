@@ -1,2 +1,2 @@
-# distributedProgramming
-Distributed programming in Java
+# Distributed Programming in Java
+Java EE apps in a distributed setup
